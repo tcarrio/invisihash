@@ -23,6 +23,10 @@ describe("Hashing", () => {
       expect(output).toHaveLength(algorithm.bits / 2);
     });
   }
+
+  it("should generate different outputs for different inputs (duh)", () => {
+    expect(hash("x")).not.toEqual(hash("X"));
+  })
 });
 
 interface Algorithm {
