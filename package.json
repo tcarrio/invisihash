@@ -12,6 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/tcarrio/invisihash.git"
   },
+  "private": false,
   "author": "Tom Carrio <tom@carrio.dev>",
   "license": "MIT",
   "bugs": {
