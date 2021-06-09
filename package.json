@@ -1,0 +1,26 @@
+{
+  "name": "@0xc/invisihash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcarrio/invisihash.git"
+  },
+  "author": "Tom Carrio <tom@carrio.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tcarrio/invisihash/issues"
+  },
+  "homepage": "https://github.com/tcarrio/invisihash#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "@types/node": "^15.12.2",
+    "jest": "^27.0.4",
+    "ts-jest": "^27.0.3",
+    "typescript": "^4.3.2"
+  }
+}
