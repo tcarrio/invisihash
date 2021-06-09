@@ -16,3 +16,7 @@ the default algorithm is `sha256` and is not required to be passed
 ```js
 hash("hello world");
 ```
+
+## why does this even exist
+
+Confluence requires unique titles and allows unicode so 🚀🚀🚀
